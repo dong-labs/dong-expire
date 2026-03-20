@@ -53,5 +53,3 @@ def main(
         raise typer.Exit()
 
 
-if __name__ == "__main__":
-    app()
