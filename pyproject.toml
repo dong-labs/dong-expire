@@ -3,8 +3,8 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "dong-expire"
-version = "0.1.1"
+name = "expire-cli"
+version = "0.1.2"
 description = "到期咚 - 服务到期日管理 CLI"
 readme = "README.md"
 requires-python = ">=3.11"
