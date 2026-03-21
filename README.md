@@ -2,6 +2,8 @@
 
 服务到期日管理 CLI - 帮你管理各种服务的到期时间
 
+[![Version](https://img.shields.io/badge/Version-0.2.2-blue.svg)](https://pypi.org/project/dong-expire/)
+
 ## 安装
 
 ```bash
